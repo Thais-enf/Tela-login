@@ -4,4 +4,4 @@ Usei as linguangens Basica como HTML & CSS.
 <br>
 <img src="https://github.com/Thais-enf/tela-login/blob/f1c0c136d3332cd666b4fa7d13e151bcba3b1169/Macbook.png">
 <br>
-<img src="**https://github.com/Thais-enf/tela-login/blob/9b6c2c2a7574b0ed9ee1ea12ecd1a8f004f038e8/resposavidade.png**">
+<img src="https://github.com/Thais-enf/tela-login/blob/9b6c2c2a7574b0ed9ee1ea12ecd1a8f004f038e8/resposavidade.png">
